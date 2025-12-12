@@ -260,3 +260,6 @@ hr {
     width: 90%;
     margin: auto;
 }
+.feature-title{
+    overflow-y: hidden;
+}
